@@ -3,7 +3,7 @@
 🎯 **Propósito del proyecto**  
 Plataforma desarrollada para evaluar profesores y materias en la **Universidad Nacional de Colombia (UNAL)**, con el objetivo de mejorar la experiencia académica de los estudiantes. Este proyecto combina un diseño intuitivo, una base de datos optimizada y una funcionalidad robusta para proporcionar una herramienta eficiente y accesible.  
 
----
+
 
 ## 🌟 **Características principales**  
 - 🌐 **Evaluación de profesores y materias**: Facilita la recopilación y análisis de opiniones de los estudiantes.  
@@ -14,7 +14,7 @@ Plataforma desarrollada para evaluar profesores y materias en la **Universidad N
   - Normalización para optimizar consultas.  
   - Creación e integración con la página web.  
 
----
+
 
 ## 🚀 **Tecnologías utilizadas**  
 - **Frontend**: HTML, CSS, JavaScript  
@@ -24,7 +24,7 @@ Plataforma desarrollada para evaluar profesores y materias en la **Universidad N
   - Diseño y normalización de bases de datos.  
   - Creación de modelos relacionales para un acceso eficiente a los datos.  
 
----
+
 
 
 ## 📝 **Aprendizajes destacados**  
@@ -33,10 +33,11 @@ Durante el desarrollo de este proyecto, reforcé habilidades clave como:
 - Implementación de Django para construir aplicaciones web robustas.  
 - Coordinación entre el diseño Front-end y Back-end.  
 
----
 
-## 🤝 **Colaboración y agradecimientos**  
-Este proyecto fue desarrollado como parte de la asignatura **Base de Datos**.
----
+
+## 🤝 **Trabajo en equipo**  
+Este proyecto fue desarrollado en grupo como parte de la asignatura **Base de Datos**.
+
+
 
 
